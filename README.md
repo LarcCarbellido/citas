@@ -1,2 +1,6 @@
-# citas
-Complete system for Date - CodeIgniter
+# Sistema de citas - CodeIgniter
+
+Completo sistema de citas, creado en el framework CodeIgniter.
+
+### Autor
+* **Larc Carbellido** - *Code Development*
