@@ -3,4 +3,4 @@
 Completo sistema de citas, creado en el framework CodeIgniter.
 
 ### Autor
-* **Larc Carbellido** - *Code Development*
+* **Larc Carbellido** - *Code Developer*
